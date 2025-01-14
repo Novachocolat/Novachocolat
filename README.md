@@ -1,7 +1,7 @@
 ### Hello, I'm Lysandre ! I'm also called Nova.
 
 ## Description
-I'm a frech student in computer science
+I'm a french student in computer science.
 My GitHub page is here to try some HTML, CSS, JS code and more in the future !
 
 ## Social medias

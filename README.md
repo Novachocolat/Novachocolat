@@ -1,12 +1,13 @@
-### Hello, I'm Lysandre ! I'm also called Nova.
+# <div align="center">Hello, moi c'est Lysandre ! 
+(On peut me surnommer Nova aussi !)
 
-## Description
-I'm a french student in computer science.
-My GitHub page is here to try some HTML, CSS, JS code and more in the future !
+Actuellement étudiant de 1ère année en Informatique.
 
-## Social medias
-- Discord : novachocolat
-<!---
-Novachocolat/Novachocolat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 Savoir où je suis 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lysandre-pace-boulnois)
+[![Discord](https://img.shields.io/badge/Discord-novachocolat-5865F2?logo=discord&style=for-the-badge&logoColor=white)](https://discordapp.com/users/586991987413090306)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://instagram.com/lysandrepb)<br/>
+
+### 🧮 Petit compteur
+![Nb Visiteurs](https://komarev.com/ghpvc/?username=Novachocolat&&style=flat-square)

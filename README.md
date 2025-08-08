@@ -1,7 +1,7 @@
 # <div align="center">Hello, moi c'est Lysandre ! 
 (On peut me surnommer Nova aussi !)
 
-Actuellement étudiant de 1ère année en Informatique.
+Actuellement étudiant de 2ème année en Informatique.
 
 ## 👀 Savoir où je suis 
 

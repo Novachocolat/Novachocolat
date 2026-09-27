@@ -1,14 +1,11 @@
 <!--
   BASE README - Novachocolat
-  Les commentaires TODO sont des endroits à personnaliser.
-  Supprime-les une fois que c'est fait.
 -->
 
 <h1 align="center">Hello, moi c'est Lysandre !</h1>
 
 <p align="center">
   <a href="https://github.com/Novachocolat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=520&lines=Étudiant+en+BUT+Informatique;Développeur+FullStack+Junior;VP+@JrCanDev;Fondateur+de+Miyabi+Corp" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,python,c,cpp,cs,git,github,firebase,figma,notion,postgresql,vscode,visualstudio&perline=9" alt="Mes compétences" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,python,c,cpp,cs,git,github,docker,firebase,figma,notion,postgresql,vscode,visualstudio&perline=9" alt="Mes compétences" />
   </a>
 </p>
 
@@ -50,17 +47,6 @@
 ---
 
 ## 📊 Stats GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Novachocolat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img alt="Stats GitHub" src="https://github-readme-stats.vercel.app/api?username=Novachocolat&show_icons=true&hide_border=true&count_private=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Novachocolat&layout=compact&theme=tokyonight&hide_border=true" />
-    <img alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novachocolat&layout=compact&hide_border=true" />
-  </picture>
-</p>
 
 <p align="center">
   <picture>

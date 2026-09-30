@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,python,c,cpp,cs,postgresql,bash&perline=9" alt="Mes compétences" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,python,c,cpp,cs,postgresql,bash&perline=9" alt="Ma Stack" />
   </a>
 </p>
 
@@ -37,9 +37,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,figma,notion,vscode,visualstudio&perline=9" alt="Mes compétences" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,figma,notion,vscode,visualstudio,androidstudio&perline=9" alt="Mes Outils" />
   </a>
 </p>
+
+
+## 💻 OS Utilisés
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,windows&perline=9" alt="OS Utilisés" />
+  </a>
+</p>
+
 ---
 
 ## 📌 Projets mis en avant

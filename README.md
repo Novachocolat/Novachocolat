@@ -29,10 +29,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,python,c,cpp,cs,git,github,docker,firebase,figma,notion,postgresql,vscode,visualstudio&perline=9" alt="Mes compétences" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,python,c,cpp,cs,postgresql,bash&perline=9" alt="Mes compétences" />
   </a>
 </p>
 
+## 🛠️ Mes outils
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,figma,notion,vscode,visualstudio&perline=9" alt="Mes compétences" />
+  </a>
+</p>
 ---
 
 ## 📌 Projets mis en avant
